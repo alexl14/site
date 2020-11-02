@@ -16,3 +16,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο.
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="p19leni" data-slug-hash="RwRyzxx" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Video Player">
+  <span>See the Pen <a href="https://codepen.io/p19leni/pen/RwRyzxx">
+  Video Player</a> by Alex (<a href="https://codepen.io/p19leni">@p19leni</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
